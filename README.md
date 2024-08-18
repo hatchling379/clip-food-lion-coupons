@@ -1,0 +1,1 @@
+[Sign in at FoodLion.com](https://foodlion.com/account) and visit the [Browse Coupons page](https://foodlion.com/savings/coupons/browse). As soon as the page is fully loaded, the script rapidly clicks "Show More" to load all coupons then clicks all of the "Clip Coupon" buttons.
