@@ -2,7 +2,7 @@
 // @name          Clip Food Lion Coupons
 // @include       https://foodlion.com/savings/coupons/browse*
 // @description   Automatically clip all Food Lion coupons
-// @version       1.0.0
+// @version       1.0.1
 // @namespace     hatchling379
 // @license       MIT
 // ==/UserScript==
@@ -14,7 +14,6 @@ const CLICK_INTERVAL = 20;
 
 // CSS selectors
 const COUPONS_CONTAINER = 'panel-browse';
-const NO_COUPONS_MESSAGE = '.coupon-general-offers-wrapper_no-browse-offers';
 const SHOW_MORE_BUTTON = 'show-more';
 const COUPON = '#panel-browse .item-tile';
 const CLIP_BUTTON = '.item-tile button.border-dashed';
